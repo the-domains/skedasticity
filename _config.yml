@@ -1,0 +1,28 @@
+name: skedasticity
+favicon: null
+layout_spectrum: 0.6715980903245509
+typography_spectrum: 0.9150642757304013
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6141678644344211
+  lightness: 0.6694055204279721
+  saturation: 0.5064240102656186
+  rhythmicContrast: 0.007989940233528614
+purpose: []
